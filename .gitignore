@@ -5,5 +5,13 @@ build/
 out/
 lib/
 
+*.tmp
+*.temp
+*.bak
 *.log
 .DS_Store
+
+/*.md
+!/README.md
+
+.vscode/
